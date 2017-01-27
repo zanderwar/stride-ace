@@ -1,0 +1,4 @@
+{
+  "name": "zanderwar/stride-ace",
+  "description": "Decoupled version of no-conflict Ace Editor for use with silverleague/stride on the SilverStripe framework"
+}
